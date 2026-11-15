@@ -1,7 +1,9 @@
-const SHELL = "shell-v1";
+const SHELL = "shell-v2";
 const IMG = "img-v1";
 const DATA = "data-v1";
-const FILES = ["./", "index.html", "style.css", "app.js", "manifest.json", "icons/icon-192.png", "icons/icon-512.png"];
+const FILES = ["./", "index.html", "style.css", "app.js", "manifest.json", "icons/icon-192.png", "icons/icon-512.png",
+  "fonts/onest-cyrillic-wght-normal.woff2", "fonts/onest-latin-wght-normal.woff2",
+  "fonts/unbounded-cyrillic-wght-normal.woff2", "fonts/unbounded-latin-wght-normal.woff2"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(SHELL).then((c) => c.addAll(FILES)));
@@ -49,14 +51,13 @@ self.addEventListener("fetch", (e) => {
     return;
   }
 
-  // само приложение: сначала кэш, обновляем в фоне
+  // само приложение: с интернетом берём свежее, без интернета - из кэша
   if (url.origin === location.origin) {
     e.respondWith(
-      caches.open(SHELL).then(async (c) => {
-        const hit = await c.match(req, { ignoreSearch: true });
-        const net = fetch(req).then((r) => { if (r.ok) c.put(req, r.clone()); return r; }).catch(() => hit);
-        return hit || net;
-      })
+      fetch(req).then((r) => {
+        if (r.ok) { const copy = r.clone(); caches.open(SHELL).then((c) => c.put(req, copy)); }
+        return r;
+      }).catch(() => caches.open(SHELL).then((c) => c.match(req, { ignoreSearch: true })))
     );
   }
 });

@@ -54,6 +54,8 @@ def parse_page(html, channel):
     soup = BeautifulSoup(html, "html.parser")
     title_el = soup.select_one(".tgme_channel_info_header_title")
     ch_title = title_el.get_text(strip=True) if title_el else channel
+    ava_el = soup.select_one(".tgme_page_photo_image img") or soup.select_one(".tgme_widget_message_user_photo img")
+    avatar = ava_el.get("src") if ava_el else None
     posts = []
     for msg in soup.select(".tgme_widget_message[data-post]"):
         post_id = msg["data-post"]
@@ -75,6 +77,7 @@ def parse_page(html, channel):
             "num": num,
             "channel": channel,
             "channel_title": ch_title,
+            "avatar": avatar,
             "date": t["datetime"],
             "text": text,
             "image": image,
