@@ -1,1 +1,50 @@
-{"title": "Мои новости", "updated": null, "topics": [], "errors": [], "items": []}
+{
+ "title": "Мои новости",
+ "updated": "2026-11-15T17:34:36+00:00",
+ "topics": [
+  "СРО и стройка",
+  "Технологии"
+ ],
+ "errors": [],
+ "items": [
+  {
+   "id": "durov/556",
+   "num": 556,
+   "channel": "durov",
+   "channel_title": "Pavel Durov",
+   "date": "2026-11-11T12:27:06+00:00",
+   "text": "👛 Over 1 million self-custodial Gram wallets activated on Telegram in the last 48 hours alone.\n\n🥇 Gram is today’s #1 gainer among the top 100 coins by market cap, +14% in 24 hours.",
+   "image": "https://cdn4.telesco.pe/file/BopMnx46B46FM6wmL6o5yx8fAx-ZLMtuHloFbp3rUcCwIbhcic-gCeoDf_v2fI4Od3CUFiBODd2tjpRlG8TvoOfGmGOQcZiYvsIThQGNNXdYzVw2Q05UCTTrftVO2b-cCo5QzaRaGR7MQJHPy1jGUp68nTP-QWZ8oDLgj47CRgMDUgHSRpBSgrpNB9AwRhHBFC88wiOJHJZJRGltLO1hyKe3OeFvvG8PY6QTlull2zKaFMuDMTwHIEYCuHwPPIrf4twADQN4uTpj25Xshpxavx6tvxtdxPH6U5hdK0JeAZUp_P7wsj2cbGSc1PDCSBvcU279Fei-xmTTbpE-Gm5r-Q.jpg",
+   "url": "https://t.me/durov/556",
+   "topics": [
+    "Технологии"
+   ]
+  },
+  {
+   "id": "durov/554",
+   "num": 554,
+   "channel": "durov",
+   "channel_title": "Pavel Durov",
+   "date": "2026-11-10T12:59:06+00:00",
+   "text": "Any Telegram message can now become an app.\n\n⚡️ Downloads instantly (just 4 KB)\n🎨 Interactive and natively rendered\n💸 Payments and viral mechanics built in\n\n🛠 Build your own. More info and docs for devs: https://t.me/BotNews/122",
+   "image": "https://cdn4.telesco.pe/file/lHuwQomdmmp_VGC9jG2LXPnf4Tr_bWH6BdMXuBMncFX8ZTc7QgQRM2MMRmbwtfTlwczJPDmXZbjWUz81LnVekbmVXf2pVRl6_Bc8_B2b9z6wyS1D7JOisxtevPiwx9hKF929rOOARgJHfkBDcQMNQ9bX3n1eqyhIjPFL9uH06LiYaEKtPuVCaDkElGTHEJ33HtHMxJl2CqiJJMc5eZmKH7XiRlBDR4c0svj508pjc-vxtMaoo3NrNA1BAZcZwmQgGgWKS5RsaEokM6gNVZTORkjZOUsAMJ0uHHzOWIr-S7K3ANlwiGdpeE11Z95K2ix55yF8rju2AngOkB8ozgUBUA",
+   "url": "https://t.me/durov/554",
+   "topics": [
+    "Технологии"
+   ]
+  },
+  {
+   "id": "durov/553",
+   "num": 553,
+   "channel": "durov",
+   "channel_title": "Pavel Durov",
+   "date": "2026-11-09T13:00:39+00:00",
+   "text": "700K+ self-custodial wallets created on Telegram in the last 48 hours alone.\n\n🦠 Adoption spreads virally. A wallet activates the moment someone receives Grams.\n\n💪 The crypto revolution is going strong.",
+   "image": "https://cdn4.telesco.pe/file/AUY9Vkbg3r6YjbrUKiYHiFZ-FdwyxrkmglOY9dfF_HG33hExta_54hrh5kXabGbsxB31knx83lOJYfeciJaMtdTaZ2CHtJT4VljHNyG-Y0RiYEHA6BbOTJLajNIvaZanLRK6YvtVaKgUpWdwUID6sn0e5rt1CJ0GnTYyAABSfwsEfowb7QKdynVj-g-lc6OO7d0d8KHBOuVdStc-kKlPEBaOJK8GdzNw-OIRdk2mRQGWS9XzEY0dbfPbgsON_H7KkjBfZttvO7OFn4rfUktn8cXi2Em33_nWe8kmFo0obl7jZROVJixgCtUEETZbi7zFhJd0nGsiZ3yqhsNIO7pbsw.jpg",
+   "url": "https://t.me/durov/553",
+   "topics": [
+    "Технологии"
+   ]
+  }
+ ]
+}
