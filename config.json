@@ -1,0 +1,20 @@
+{
+  "app_title": "Мои новости",
+  "channels": [
+    "durov",
+    "telegram"
+  ],
+  "topics": [
+    {
+      "name": "СРО и стройка",
+      "keywords": ["\"сро\"", "ностро", "нопри", "градостроит", "застройщ", "подрядчик", "строительств"]
+    },
+    {
+      "name": "Технологии",
+      "keywords": ["telegram", "приложени", "обновлени", "ии", "нейросет", "update"]
+    }
+  ],
+  "show_unmatched": false,
+  "keep_days": 30,
+  "pages_per_channel": 2
+}
