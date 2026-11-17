@@ -1,12 +1,26 @@
 {
  "title": "Мои новости",
- "updated": "2026-11-17T12:52:56+00:00",
+ "updated": "2026-11-17T21:34:32+00:00",
  "topics": [
   "СРО и стройка",
   "Технологии"
  ],
  "errors": [],
  "items": [
+  {
+   "id": "durov/564",
+   "num": 564,
+   "channel": "durov",
+   "channel_title": "Pavel Durov",
+   "avatar": "https://cdn4.telesco.pe/file/R3apiW_FfdEZ-QxrznoIlubSq-u342xJH9mJcrYLm_nBzXv4jKagyJtfHUWZZpOY36xoxYa5EGLm5mn3E5vPeb4KLyRIGJ6l4oGifS_3OrSMftSvA2BjBQrNDaPTA168cmG542BBicmUZMdheNvWrdRM-8UUpzsZlO5T0od09vQ_xSKuHJm5LV2Qf0JJIh1qbrkKxpGDrOxj224clzqUo2lFSh7mRsaPlXfvAd_2CN_xnLtpNPUocUNE9ecXYynnJh0G5Gcp4nUsD3mInJT0YRa76iRMsZNSXQ2nynOSeMDuzD3Gr0var4gmgC2cJv4HkPRwWYR-1cDIGyiogCvexw.jpg",
+   "date": "2026-11-17T19:12:44+00:00",
+   "text": "⭐️ Telegram bots and mini apps can accept only Stars (*Grams) for digital services.\n\nWhy? Apple and Google rules require Stars.\n\n💎 But users can buy Stars with Grams on Fragment.\n\n🔓 VPN bots in authoritarian countries are exempt.\n\nThey do God’s work and can take any payment 🤩",
+   "image": null,
+   "url": "https://t.me/durov/564",
+   "topics": [
+    "Технологии"
+   ]
+  },
   {
    "id": "durov/556",
    "num": 556,
