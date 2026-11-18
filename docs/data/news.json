@@ -1,12 +1,26 @@
 {
  "title": "Мои новости",
- "updated": "2026-11-18T12:06:26+00:00",
+ "updated": "2026-11-18T20:50:10+00:00",
  "topics": [
   "СРО и стройка",
   "Технологии"
  ],
  "errors": [],
  "items": [
+  {
+   "id": "durov/565",
+   "num": 565,
+   "channel": "durov",
+   "channel_title": "Pavel Durov",
+   "avatar": "https://cdn4.telesco.pe/file/MLG-tSWb-yV77yFaJ1tzIQqhZfSHrHmB9lfonmgQ5ZRdmGZukbs1CS_98yH0LTWEI4SdnawO20R4ieMB4R9GhQtQf36rsM-1pWR3F4qth9iDy3s_XlKe2-M4vvRsdljxGJ-Iu5GFdCI4zaPrAHTT_6JUaohAX130ghW7joerONfSyNrrGWpWRm9Z6e5GwhLaysM9KuZaDtUIl2L781Y337YMF62jQMjpRB_PAvG18L83XIFKf4Ib7wa4IvDP_NmFB_yJqALogs2dh9OJI9EFnTiH7qWweY-3B2f_iWaF2mdtmUDlLWT2eWmjBoaVIJ05jb4Il0HJCYoXoZI0dnhmZw.jpg",
+   "date": "2026-11-18T17:42:19+00:00",
+   "text": "🇮🇶 Iraq blocked Telegram (2nd time this year).\n\nWe feel sorry for the Iraqi people.\n\nBut we won’t censor free political speech.\n\nRegardless of how we are asked. ✊",
+   "image": null,
+   "url": "https://t.me/durov/565",
+   "topics": [
+    "Технологии"
+   ]
+  },
   {
    "id": "durov/564",
    "num": 564,
@@ -57,7 +71,7 @@
    "avatar": "https://cdn4.telesco.pe/file/MLG-tSWb-yV77yFaJ1tzIQqhZfSHrHmB9lfonmgQ5ZRdmGZukbs1CS_98yH0LTWEI4SdnawO20R4ieMB4R9GhQtQf36rsM-1pWR3F4qth9iDy3s_XlKe2-M4vvRsdljxGJ-Iu5GFdCI4zaPrAHTT_6JUaohAX130ghW7joerONfSyNrrGWpWRm9Z6e5GwhLaysM9KuZaDtUIl2L781Y337YMF62jQMjpRB_PAvG18L83XIFKf4Ib7wa4IvDP_NmFB_yJqALogs2dh9OJI9EFnTiH7qWweY-3B2f_iWaF2mdtmUDlLWT2eWmjBoaVIJ05jb4Il0HJCYoXoZI0dnhmZw.jpg",
    "date": "2026-11-09T13:00:39+00:00",
    "text": "700K+ self-custodial wallets created on Telegram in the last 48 hours alone.\n\n🦠 Adoption spreads virally. A wallet activates the moment someone receives Grams.\n\n💪 The crypto revolution is going strong.",
-   "image": "https://cdn4.telesco.pe/file/FmiuvLFnlq0cop-qXzrwkKp4I7ePOHR95HM3iotgdZ9wAGmr7-Nogg850KtYwhv7IKYX3IBLOKSOCmncnz8EmGpvjzpWAgqv0YAisP7WLrJPuE19fT3Zd44wePUj5EvlYje6rVR92XsIvoAx2a_vtfxspM6RXgtClqHyvW_n06e3Yc-gmgUHiD48zow-2tcU_S7T_yebBgeWGlNwasJ4DEUn63u0ETmlvqDvmfyPtD2WqL0cb_mFoxTMKs6EuyNv-vYeZr9o_YKJcbqgdJWC2bg09ykLTf8dT5cUmrCQlX7zpoKOdbCf8NUPq7BoTkmjLrPtLMDkp7pAkX4uecY_Cw.jpg",
+   "image": "https://cdn4.telesco.pe/file/AJsxQEz6mt2IS7wltVropW35iHRMWaEs7yqMLT2Bdg2UDKhxI1NCjdpFejJ1m_mwzQf2gGQFHR1NxL_4MgNRvfxC6HGkqTaLL594inX4sSV6513y2k0RcHNwp4Yxb-4h6_1qgqIBxZWxYkjbPq2Fdme_fP-tqqR9BISlpA2TUkXE8_AIS2WlJqW8i78ujMeVdcg5TUaq4NXHbeZ6GaxjpkjbZlztiSTM-D3tNGVe46q9a5ilByoqqk9hTMkV0iuXmFcVTMp99jOHQ_1n1DTSOkUw9vt_8alazjdGcOtPSLkDGdXdv2IV_4iGhZkKx8ob3WnH7Br6BXzswXj81Jpkkg.jpg",
    "url": "https://t.me/durov/553",
    "topics": [
     "Технологии"
