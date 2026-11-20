@@ -1,12 +1,26 @@
 {
  "title": "Мои новости",
- "updated": "2026-11-19T19:24:45+00:00",
+ "updated": "2026-11-20T01:24:22+00:00",
  "topics": [
   "СРО и стройка",
   "Технологии"
  ],
  "errors": [],
  "items": [
+  {
+   "id": "durov/566",
+   "num": 566,
+   "channel": "durov",
+   "channel_title": "Pavel Durov",
+   "avatar": "https://cdn4.telesco.pe/file/V0-4Icd3s5l2j5yXmmZH3XhGG8EN14K4hxJqvD51lBCaVy-byIPTQd92IDWvs2NmqU-IuHDBnpw82gn05rFWtmBcs3MjyxTcyCQo158r5iewPEmOicuj2-Gsj3Z87-rV1JU8EEcJA_g-UWbtiwzKsYr8plGLIAjiROERDYNApujbNu7p06fdyMVtFInl-sHzB9XxBqBmFB5RXnpQsdhFq_xs3_EhBsQs5SlkDYEHB6UPkz2IpGADF8WRy7WF-ln1IC_wSl8ICM0vnMjaDADpbHkviS1KAQ_eBMqyKE9UeCyTdJa5FHZ9vGdXdfvadTtwVwTTab70JSb_kCB6Popa3Q.jpg",
+   "date": "2026-11-19T22:12:20+00:00",
+   "text": "Apple finally made a phone that’s both too big and too small.\n\nIt folds in half. Just like your enthusiasm.\n\nWe still made Telegram look incredible at both wrong sizes.\n\nWe do a lot of charity work.",
+   "image": "https://cdn4.telesco.pe/file/SYIulSS8So0TwjJYRu-co1fCIFC4zEWWrBlh3QxnKX9ULqOUSZIrUU57KKIgH0b0oSdnMj_bopbNgkV_1Ide312D4qmjS3MXNxo2bpI5BzxZISWrZJZ1Fx2Rv1reWpJu0yVGp3fX2u3CS-L3Th4z1-51or5OII3CLAlNiBAsH34nuwtUQiO-F96IZ6W6RnAvQ8CVDwsSiqwblTCQ_usjDxqGvwtYaivjJOpP-1MCzTwO-lgxZZz6X4kCc6F4Rp-V97_CUiU7lYoQ6w9UkE2jkENVCKHYr4-5mShJJUIlZF8NgP-5_J8lGVP2a3CrJqImILfKIL1y2aGy8IaCJUxzNA",
+   "url": "https://t.me/durov/566",
+   "topics": [
+    "Технологии"
+   ]
+  },
   {
    "id": "durov/565",
    "num": 565,
@@ -43,7 +57,7 @@
    "avatar": "https://cdn4.telesco.pe/file/V0-4Icd3s5l2j5yXmmZH3XhGG8EN14K4hxJqvD51lBCaVy-byIPTQd92IDWvs2NmqU-IuHDBnpw82gn05rFWtmBcs3MjyxTcyCQo158r5iewPEmOicuj2-Gsj3Z87-rV1JU8EEcJA_g-UWbtiwzKsYr8plGLIAjiROERDYNApujbNu7p06fdyMVtFInl-sHzB9XxBqBmFB5RXnpQsdhFq_xs3_EhBsQs5SlkDYEHB6UPkz2IpGADF8WRy7WF-ln1IC_wSl8ICM0vnMjaDADpbHkviS1KAQ_eBMqyKE9UeCyTdJa5FHZ9vGdXdfvadTtwVwTTab70JSb_kCB6Popa3Q.jpg",
    "date": "2026-11-11T12:27:06+00:00",
    "text": "👛 Over 1 million self-custodial Gram wallets activated on Telegram in the last 48 hours alone.\n\n🥇 Gram is today’s #1 gainer among the top 100 coins by market cap, +14% in 24 hours.",
-   "image": "https://cdn4.telesco.pe/file/kd6bHImj_Glt9S254Tza9wXH9a27A2cCKTsq1X6RWWhGrgINE_4k-chP7HwrNthh035S8HO-6HWFRMTDuZ1XUjEoPz4pIu9AqcxY_0CipzitcrxaY-VjxIMF7VO64jv5F36uzyFjo9IERFWQN8q8oHRgAb8toZMd4J80YuEvs43l78gx36kYmUn_FCAKpRgNoKr4mks3WngCEd7JM__BuvJfZR2p3ezdCTNUg-hcsyZXU0iVtTM510gb-Elc5-NW0cB7V6zxJOZCTAkHh8FgVXreqoZmnIGfzlN3RhSGstm8uwLm1uPAD5oirPDqnndAgQ_sZbFtuiwIsibO624OUQ.jpg",
+   "image": "https://cdn4.telesco.pe/file/Futu3iI3s_oTXy0CofyQxkl07lZKsfKroFzzZ5Gtn7INbBsasqjf7Fjv5uCTBfoKAVN5pQQUbaUiSY9T_1lomACLU803OANIKPzrZDpWrTaIXSRn0a1P9xPkvdvKfXEcFot7Rq7YoIv4jllrV94ZUx4_W8gq222vL8TxgbiBu8NAlk8W0S_5NMzikqdmpoEw7ELqeXyE7tc91tA0ypyHYoKJO7q2rO24Z0YEF9vw7yOnV8rJcG8gXzaOu7B93cnpEu5IwF9EUGhRlYX7Umn0uhzlLh7nC7x77oIhIkgKAKPg0979AdPpvZbBZ_1b0UPqcEitMWm2ts5_HRSJVNDd_g.jpg",
    "url": "https://t.me/durov/556",
    "topics": [
     "Технологии"
