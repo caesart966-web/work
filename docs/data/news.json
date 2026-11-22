@@ -1,12 +1,26 @@
 {
  "title": "Мои новости",
- "updated": "2026-11-22T16:57:54+00:00",
+ "updated": "2026-11-22T22:24:07+00:00",
  "topics": [
   "СРО и стройка",
   "Технологии"
  ],
  "errors": [],
  "items": [
+  {
+   "id": "durov/569",
+   "num": 569,
+   "channel": "durov",
+   "channel_title": "Pavel Durov",
+   "avatar": "https://cdn4.telesco.pe/file/QL3WLSIu8hMxaB1xrCVa0v2u0L0I9A12okn8jV6-R_XoEsPxrz-HRepmhw2TMMmmCbexW_6TQymfprv9HFvk9JSVP86VI1E0jfKnqZrPWdnatkI3Rh_InZ7kqSFx-oyAJZO9pMfyjyez8YuJE1U3m0Xziqo5wYf4HrRyECC2i5Au26P4FfQMHii3FnRdMSjo2509yi8GNH2T0WrV2NkQ2vjLAyOugCAL-zw0qj2x3yGDHBqtEugb9tbyCp0RleeaJsoiHTuPLCf940ZkYVy0ES14CUvT8B6gdIyxpP1bWasnOQjs2AQbs8Ttmx7xZ9bZF3D1Ce3ICPBBzYoEE1jHMw.jpg",
+   "date": "2026-11-22T22:17:13+00:00",
+   "text": "The least realistic thing about GTA VI is that Jason and Lucia run a whole criminal operation without a single Telegram group.",
+   "image": null,
+   "url": "https://t.me/durov/569",
+   "topics": [
+    "Технологии"
+   ]
+  },
   {
    "id": "durov/567",
    "num": 567,
@@ -29,7 +43,7 @@
    "avatar": "https://cdn4.telesco.pe/file/QL3WLSIu8hMxaB1xrCVa0v2u0L0I9A12okn8jV6-R_XoEsPxrz-HRepmhw2TMMmmCbexW_6TQymfprv9HFvk9JSVP86VI1E0jfKnqZrPWdnatkI3Rh_InZ7kqSFx-oyAJZO9pMfyjyez8YuJE1U3m0Xziqo5wYf4HrRyECC2i5Au26P4FfQMHii3FnRdMSjo2509yi8GNH2T0WrV2NkQ2vjLAyOugCAL-zw0qj2x3yGDHBqtEugb9tbyCp0RleeaJsoiHTuPLCf940ZkYVy0ES14CUvT8B6gdIyxpP1bWasnOQjs2AQbs8Ttmx7xZ9bZF3D1Ce3ICPBBzYoEE1jHMw.jpg",
    "date": "2026-11-19T22:12:20+00:00",
    "text": "Apple finally made a phone that’s both too big and too small.\n\nIt folds in half. Just like your enthusiasm.\n\nWe still made Telegram look incredible at both wrong sizes.\n\nWe do a lot of charity work.",
-   "image": "https://cdn4.telesco.pe/file/trpGSQajrdtajA2asktoeUXe0e2sk2h4N1JwGEIPtTqhVyd86eSK_YMr5RnIPM97_vC4PZUM6BseSX4_PeTvHtMBsGekg8W0zEhua01JBQ8K69ueDZXYKmqvyYGVM9XW8eNTuSchxteBgMOGRMgjrxi8wUpmIXOtnTamzaeuv3dO1YGdAES3WPwnyiDvdyPIN97Ca4ssOQ_zEiVDzh_b0HnNhiWUu2GIOTvqs7hWkuMvMvCKIFwKnPW3Udxugttua1a6nh1h9N8lRvVtxzvNRnRTuDO1wC0WGG--3OzkZEt27Be5SDimAts9NDcxj64HwlJXak8R30d0fHSCkQQ1gw",
+   "image": "https://cdn4.telesco.pe/file/QGByCHaaGCVxuhHIu1q3EdwOqOskxbtGY_nRRqvbvTk1NZkVLz8nhZ6oJlIrQfMgKseEvtP7suhqDcTdx_vkfnbFbidCGagrTK2KKYUFlqw9LG2F37D2mapatuWP8P0dZcis-WnlxsrP7Rh9o48rZb6SGY6yVgC2ZeoNlePrQUCwReY4wIWNcn0BCHGVYL0aXL1SXk22BTnGKcUpRC8fwirWeCOntNZRBhAjA5QBHe4KNu2CW4oiNCT_7XOLkxchi8m8sfZSiB1FVZov2KCei2kLQyZrNyZrikt4WJPsYUwTz5dizTkNzogDRWZsEa6MNmEaj5EYN_Y5oyTGG4-26w",
    "url": "https://t.me/durov/566",
    "topics": [
     "Технологии"
