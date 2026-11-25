@@ -1,6 +1,6 @@
 {
  "title": "Мои новости",
- "updated": "2026-11-25T03:59:46+00:00",
+ "updated": "2026-11-25T14:10:23+00:00",
  "topics": [
   "СРО и стройка",
   "Технологии"
@@ -8,11 +8,25 @@
  "errors": [],
  "items": [
   {
+   "id": "durov/573",
+   "num": 573,
+   "channel": "durov",
+   "channel_title": "Pavel Durov",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
+   "date": "2026-11-25T12:56:51+00:00",
+   "text": "Someone offered me $1M for the @liar username on Telegram.  I want to believe the money is real.  But it's hard to trust a man who wants to be known as @liar 🤔",
+   "image": null,
+   "url": "https://t.me/durov/573",
+   "topics": [
+    "Технологии"
+   ]
+  },
+  {
    "id": "durov/572",
    "num": 572,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-24T21:48:27+00:00",
    "text": "Someone offered me $1M for the @liar username on Telegram.\n\nI want to believe the money is real.\n\nBut it's hard to trust a man who wants to be known as @liar 🤔",
    "image": null,
@@ -26,7 +40,7 @@
    "num": 569,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-22T22:17:13+00:00",
    "text": "The least realistic thing about GTA VI is that Jason and Lucia run a whole criminal operation without a single Telegram group.",
    "image": null,
@@ -40,7 +54,7 @@
    "num": 567,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-20T20:47:30+00:00",
    "text": "I was offered $256,000 for the @pride username on Telegram.\n\nI don’t need the username.\n\nBut if I sell, does that mean I sold my pride? 🤔",
    "image": null,
@@ -54,7 +68,7 @@
    "num": 566,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-19T22:12:20+00:00",
    "text": "Apple finally made a phone that’s both too big and too small.\n\nIt folds in half. Just like your enthusiasm.\n\nWe still made Telegram look incredible at both wrong sizes.\n\nWe do a lot of charity work.",
    "image": "https://cdn4.telesco.pe/file/mZCJAc29An5Nnf0Bd_20-doxNWu7gBT4hVVvT4f6-rq_u3CrEq3yiE-DwwANBemR-eGkL0rNQcvfF3CeXqfBKgkqvwWCepzhL7wi1PEoaorkOCkox53CQOv0hsywgLm5Cj8m0EWXvnRlZsAm02oplX2dZPB5aTK8RciQymdegUC_oEzb-QZA-UtSQfw0AC_isadR1f5L5aR81R2g6frDrTksKfiWF98qR01uolILxAK-T_yClwCsq_CLlVv3iH1v5yZLHuw8UOjinsW_duRsG5Alv5rN3wkQBwD0uJwX4o0KkdoOn1Itctcsok_a7a6nfYvnqtbDvXdsBNurXGkWRQ",
@@ -68,7 +82,7 @@
    "num": 565,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-18T17:42:19+00:00",
    "text": "🇮🇶 Iraq blocked Telegram (2nd time this year).\n\nWe feel sorry for the Iraqi people.\n\nBut we won’t censor free political speech.\n\nRegardless of how we are asked. ✊",
    "image": null,
@@ -82,7 +96,7 @@
    "num": 564,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-17T19:12:44+00:00",
    "text": "⭐️ Telegram bots and mini apps can accept only Stars (*Grams) for digital services.\n\nWhy? Apple and Google rules require Stars.\n\n💎 But users can buy Stars with Grams on Fragment.\n\n🔓 VPN bots in authoritarian countries are exempt.\n\nThey do God’s work and can take any payment 🤩",
    "image": null,
@@ -96,10 +110,10 @@
    "num": 556,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-11T12:27:06+00:00",
    "text": "👛 Over 1 million self-custodial Gram wallets activated on Telegram in the last 48 hours alone.\n\n🥇 Gram is today’s #1 gainer among the top 100 coins by market cap, +14% in 24 hours.",
-   "image": "https://cdn4.telesco.pe/file/f3ZwmTZgcewAuTykVX-R9wW5YO4lZFr6ECAEA6gPoEG3EIg7hRtTWOxTskV570h6ujE2UX5PYAmDSbQsmHV6K5fW0e0BR1YsCnUkIFLTjhkYZq5JxTYAusG06T8EimFatZF6_IRKeevuCU4GXHfY21NvEh58NX0Lqt_uV5xSTdMLDaf7NUR94vzoNFF3G3_3M3NdGp_nG9hBidz2Hmk3HMCX50iXKRnMTU75co4TPs1fU03WECN5_0ZLnYfdoJi7MYV0vNEIVPzQDPctWi87-05CztV3EPVeQugVDtyWEbAXgprE8beEhY4eDjdsOQgG4lEnCKvLwg5_bvnWvFrlVw.jpg",
+   "image": "https://cdn4.telesco.pe/file/uaMCgn6get0Ucx2ALVesSx7m5HzrKCWf2PDuNJl_gq1Ay6JfGC5MyEeEYzJioxYwQLUh6arfF-tDfuUgGKBsIfI8Yn37D43VOVfagkUlJJnGh1423CkJy9CpDje2e3S2uIjzoeRaI7uIZvF6otWfjG_1xb07Himr1eXmHNwYWFWN-1U1hVqdhz4ISe4YNOnTbIHM1qBwDIXG8kFg83S31JwzYpctl-UYjDD41iDgDRzpl0t2bmrtgFI7pFziqEfdgfvkVzaHtvGk9MHKL3f6LZifzwmjitFRshsZaPU3umxOa5A9OU7JfQBELeeywQEMtAbriBgPI1b5W-xVkz2vyQ.jpg",
    "url": "https://t.me/durov/556",
    "topics": [
     "Технологии"
@@ -110,10 +124,10 @@
    "num": 554,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-10T12:59:06+00:00",
    "text": "Any Telegram message can now become an app.\n\n⚡️ Downloads instantly (just 4 KB)\n🎨 Interactive and natively rendered\n💸 Payments and viral mechanics built in\n\n🛠 Build your own. More info and docs for devs: https://t.me/BotNews/122",
-   "image": "https://cdn4.telesco.pe/file/T98U8df0dYcIt9bybXA6XEvkyY68WBzr-ViehBK05zRtnWk1bfoDZV3AVp_gi5rB4Bx3mG6tT6LW1-P96iZfX74AJvvYhorIvP0y4JBn_L1Yv7WnTewsr0P5ODuauDgdnUsHToRckwcpg0EH0ia90tRawhBAuA_mMSIZvfeABvZOigc5-wog48ntzAU7GOUJSuGqplNAsfvXtSk39mWMShGwbRt8EmVF83mafOX3U1puaWvrSislWXw8pXUYiNKFs5x3Nce4ezakBEHCYcqHRFQSREwrwjOfpDMoX8oxluB9nUAqeIOpLib71Y3cH7AXsh9Hkq5ULZJRQRwx1orBuw",
+   "image": "https://cdn4.telesco.pe/file/vHQFY0bE9GEJPzzUU5ConPhKtwDgNoUmYKflH_h355Q4cGgF8HU1kmRz6niXiRfJm9zMAfGcdkqSLjRLPJR2CSSNn3gTBlrqcB4aCCmZgup2nvnRGM71hgrpanumPlfjmebt0_cfFtTk8_oAnMjJq2UsIYN8iIfdlwCoILoBVlOeWzxkYI4vKd2B0fS1VZtuw_-JXNt6OchPNh1ANrHhnxYVL-jNoie4qgFWkcdfYvcTicBsbb5qAo3qdfqHrG3xWUD1bX99gXC5exlSC--3fXNdEyojxIyUvuHJU3MYZASOpOanI3xq-fT5ZFBj0XenshYsjo5ZeG4TwD57vRV_rQ",
    "url": "https://t.me/durov/554",
    "topics": [
     "Технологии"
@@ -124,7 +138,7 @@
    "num": 553,
    "channel": "durov",
    "channel_title": "Pavel Durov",
-   "avatar": "https://cdn4.telesco.pe/file/dlY-pWv1M0zHrFRk5ZyAURHmcTADU_XJmqf6-3BKyAAEd7xDu6zrU7WaZ-afx1FYRVBzI56P12BhUItywIHSi4bLjy0Qga7dodk6n7y1mHvWyPO715dMcrRzGKtGglcoiiyncJKrXJvsK6AYpfHz-IwSWpkfX3uh3wN6-A3kkFZIr_8LSgH8R5o1IaXS7UK27iCCUdjPj4AoWwo4B4SudVi5viUf3l84qyq0Hfoj-h1m4bWqGQ6eT2MS3Lepe1W1lQ8BRNdG-pm7CViERoFjGq9jt3ykTX5uw8b87NYn2q7AxJigvHALc5Ot2ZmwFgHVGeStVowup2yFaRt18-D32Q.jpg",
+   "avatar": "https://cdn4.telesco.pe/file/EJiRzK6L1FIEvCGI2xBTNfV9EWPgwRGEaFlymQglaKR2RZuX2eZlAeMjQ9Du2ZyxNJwNDs4EBxrzo5MykdeoFjTNya-_-CXGdtnq4y8KaEkQafzC0cdc9XmOT4kaBO4BOURgvswPOtopzsPUVUnsySI6gSjRhFZbukjf8lkqX5WmylHM5qh4NxdmfRGt42T1lETNW9sQqSmkd-yXVR3ZEOHkm5xZf-oH-JpadR6VSXhe0Iahdm_hybphrH2pj-ym1LOnl9pVlLTLVT0BMIBvyt6JhArwoj3O1xh2Z3psbTUyNNnKOytbQIU3j4ddKV5J6mbqsIM3Twh4rBhxCXObEA.jpg",
    "date": "2026-11-09T13:00:39+00:00",
    "text": "700K+ self-custodial wallets created on Telegram in the last 48 hours alone.\n\n🦠 Adoption spreads virally. A wallet activates the moment someone receives Grams.\n\n💪 The crypto revolution is going strong.",
    "image": "https://cdn4.telesco.pe/file/Yu8qVlj5BoOiBahNruZ6I1vh9uaAYR-gdWJq1kcHVkJbG6PD_JNNm3znn5hCNaUh93r7D7mvlunmWdcAp_TkwS4yq_QuWsofBZ_OCSIBrQeBLaHnqLeSqR9-5pNN19aML3c27Nf6gqGUh2RDWyIgmArA_QjKvUebYULkkCcDtWHhxI2gfSszXyyLSoFRm5atY2xoteoUCD-OA1FKqWWTl6QJwKpZM3EvIQRVfOZL7mxuTINDxJTqLpF6IQAFOFxc73XmyrSbzNctGgWfZKW3iXouLY5-KxCx8YmpATokMzK-mE37VRfwyRBBnBWEdWAfcdl0a8uD11avV0JBaGYsVQ.jpg",
